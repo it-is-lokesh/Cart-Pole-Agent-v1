@@ -9,7 +9,7 @@
 - For Policy Iteration, training=False (for best results).
 - For Monte-Carlo and SARSA(1), use_pretrained=True (for best results).
 - The trained optimal action files are provided along with the code, and are loaded automatically during the visualization.
-- To check the best results, it is recommended to epsilon value as 0.
+- To check the best results, it is recommended to set the epsilon value as 0.
 - To check the agent's performance under sub-optimal conditions (might be some external disturbance), set the epsilon value as something greater than 0. 
 
 ### For training the agent
