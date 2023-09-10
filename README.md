@@ -20,4 +20,4 @@
 ### Results
 - The agent performs best when Monte-Carlo learning is used.
 - SARSA algorithm aims for immediate reward, hence results in sub-optimal policy.
-- Policy iiteration technique perfoms poorly as the state transition probabilities are highly uncertain in such a dynamic environment.
+- Policy iiteration technique perfoms poorly as the state transition probabilities are highly uncertain in such a dynamic environment (Similar results expected for Value iteration).
