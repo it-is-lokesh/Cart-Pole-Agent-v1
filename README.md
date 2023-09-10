@@ -16,3 +16,8 @@
 - For Policy Iteration, training=True.
 - For Monte-Carlo and SARSA(1), use_pretrained=False.
 - The provided pre_trained policy files will be OVERWRITTEN once a new training loop starts.
+
+### Results
+- The agent performs best when Monte-Carlo learning is used.
+- SARSA algorithm aims for immediate reward, hence results in sub-optimal policy.
+- Policy iiteration technique perfoms poorly as the state transition probabilities are highly uncertain in such a dynamic environment.
