@@ -4,6 +4,7 @@
 - Each of the learning algorithms are written in seperate classes in the file "main.py".
 - Three classes namely "Policy_Iterator", "MCLearning", "Sarsa" are mentioned, each signifying the code corresponding to the named learning methods.
 - The hyperparameters can be adjusted during the object declaration itself for both training and visualization.
+- Kindly uncomment which ever part of the code is desired to be tested, the instructions are mentioned near the code blocks itself in the main.py file.
 
 ### For visualizing the agent's performance
 - For Policy Iteration, training=False (for best results).
